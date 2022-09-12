@@ -1,1 +1,1 @@
-# Lab02-template
+# Lab2-template
